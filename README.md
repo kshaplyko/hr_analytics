@@ -16,5 +16,5 @@ HR-аналитики компании «Работа с заботой» пом
 Мною были решены следующие **задачи**:
 - Предобработка и изучение данных, исследовательский анализ данных;
 - Подготовка данных, признаков в пайплайне;
-- Обучение моделей LinearRegressionи, DecisionTreeRegressor, KNeighborsClassifier и подбор гиперпараметров с помощью RandomizedSearchCV;
+- Обучение моделей LinearRegression, DecisionTreeRegressor, KNeighborsClassifier и подбор гиперпараметров с помощью RandomizedSearchCV;
 - Проверка качества лучшей модели на тестовой выборке с помощью пользовательской метрики (SMAPE).
